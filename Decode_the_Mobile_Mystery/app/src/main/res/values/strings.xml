@@ -1,0 +1,36 @@
+<resources>
+    <!-- Menu Strings -->
+    <string name="app_name">Decode the Mobile Mystery</string>
+    <string name="otherscrosswords">Crosswords</string>
+    <string name="support">Support and Suggestions</string>
+    <string name="how_to_play"><b>How to Play</b></string>
+    <string name = "ok">Yepperoni</string>
+    <string name="sub_option_1">Crossword #1</string>
+    <string name="sub_option_2">Crossword #2</string>
+
+    <string name="instructions1"> <b>1.</b> When the game board pops up, use the hints to guess the certain Mobile Apps term.</string>
+    <string name="instructions2"> <b>2.</b> When you guess correctly, the background color of the square will change to green. When you guess incorrectly, the background color of the square will be red. Use the "check" button to see your results! </string>
+    <string name="instructions3"> <b>3.</b> The numbers for hints for across and down are delegated from up to down and from left to right (For example, 1 ACROSS is the top row) Touch and drag on the hints to view them all. </string>
+    <string name="instructions4"> <b>4.</b> Repeat this process until you have completed the crossword puzzle.</string>
+
+    <!--
+    Crossword Strings
+    -->
+    <string name="hint1">A general-purpose programming language developed by JetBrains and officially released in 2016</string>
+    <string name="word1">Kotlin</string>
+    <string name="hint2">Developers commonly use this to write Kotlin programs</string>
+    <string name="word2">IDE</string>
+    <string name="hint3">A named group of related statements surrounded by braces</string>
+    <string name="word3">Function</string>
+    <string name="hint4">Any text in a program intended for humans and ignored by the compiler</string>
+    <string name="word4">Comment</string>
+
+    <!-- New Game + End Game -->
+    <string name="new_game">New Game</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="support_feedback"><![CDATA[Support & Feedback]]></string>
+    <string name="cancel">Cancel</string>
+    <string name="Send">Send</string>
+    <string name="questions_comments">Type here for any questions, comments, critiques, etc.!</string>
+    <string name="check">Check</string>
+</resources>

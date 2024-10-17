@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/otherscrosswords"
+        android:id="@+id/otherscrosswords">
+        <!-- Define sub-menu items here -->
+        <menu>
+            <item
+                android:title="@string/sub_option_1"
+                android:id="@+id/sub_option_1"/>
+            <item
+                android:title="@string/sub_option_2"
+                android:id="@+id/sub_option_2"/>
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/support"
+        android:id="@+id/support"/>
+    <item
+        android:title="@string/how_to_play"
+        android:id="@+id/how_to_play"/>
+</menu>
